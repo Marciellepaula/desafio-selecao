@@ -1,4 +1,4 @@
-# Desafio Back-End - Campeonato de Futebol da ECorreção
+# Desafio - Campeonato de Futebol da ECorreção
 
 A ECorreção está organizando um campeonato de futebol de salão no final do ano entre os seus funcionários. Como serão vários times e em dias diferentes a diretoria solicitou o desenvolvimento de um sistema para controlar o campeonato.
 
